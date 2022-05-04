@@ -1,0 +1,23 @@
+VARABLES 
+Las Variables son un nombre que nosotros le asignamos a un valor,
+donde guardamos la información que queramos, 
+y gracias a Javascrip con su sistama más flexible, esos valores pueden ir cambiando 
+
+STINGS 
+Los Sting son un un hilo de caracteres,
+ya que pueden ser un conjunto de letras o número que siempre van a empezar y terminar con " (comillas) 
+
+FUNCIONES 
+Las funciones son la forma más básica para no estar escribiendo código demás 
+Los Argumentos son variables que declaramos dentro de la función que van a tomar un valor 
+cuando uno la invoque  
+El Return es lo que nosotros le ordenamos a la máquina, como dice la palabra en espáñol,
+que retorne luego de lo que le asignemos 
+
+DECLARACIONES 
+En la programación para poner una expreción condicional usamos el if, en el cual si es veradero
+ejecutara un código y si es falso otro 
+
+VALORES BOLEANOS 
+Los valores boleanos representan verdadero o falso, 'true' y 'false' 
+
